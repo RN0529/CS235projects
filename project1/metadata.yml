@@ -1,0 +1,11 @@
+---
+:id: 38624634
+:submitters:
+- :name: Richard Ngo
+  :email: richard.ngo94@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-06-03 17:23:00.683248000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-06-03 10:23:00.683248000 Z
+:status: processed
